@@ -1,9 +1,5 @@
-# Faida Estate Management System
+# Alliance Estate Management System
 A web based application designed to assist residents and the management committee in their operations within a residential estate.
-
-## Contributors
-* [Allan Vikiru](http://github.com/AllanVikiru)
-* [Cosmas Nyairo](http://github.com/cosmasnyairo)
 
 ## Setup
 To setup the system, clone it to the xampp/htdocs folder. 
